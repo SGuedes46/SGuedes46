@@ -27,8 +27,8 @@
  
  
  
-![GitHub Snake Light](https://github.com/SGuedes46/SGuedes46/blob/main/github-user-contribution.svg#gh-light-mode-only)
-![GitHub Snake dark](https://github.com/SGuedes46/SGuedes46/blob/main/github-user-contribution.svg#gh-dark-mode-only)
+![GitHub Snake Light](https://github.com/SGuedes46/SGuedes46/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](https://github.com/SGuedes46/SGuedes46/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 </p>
 <br>
  
