@@ -34,6 +34,6 @@
  
 ## Know me better!!!
  
-<a href="https://www.linkedin.com/in/samuel-guedes-carvalho/"><img alt="linkedin" title="linkedin" width="30" height="30" src="https://img.icons8.com/fluent/48/000000/linkedin.png"></a><a href="https://www.instagram.com/sguedesc/"><img alt="instagram" title="instagram" width="30" height="30" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"></a>
+<a href="https://www.linkedin.com/in/samuel-guedes-carvalho/"><img alt="linkedin" title="linkedin" width="50" height="50" src="https://img.icons8.com/fluent/48/000000/linkedin.png"></a><a href="https://www.instagram.com/sguedesc/"><img alt="instagram" title="instagram" width="50" height="50" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"></a>
  
 </div>
